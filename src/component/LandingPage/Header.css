@@ -1,0 +1,13 @@
+.cont{
+
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    padding:20px
+
+    
+}
+li {
+    text-decoration:none;
+    
+}

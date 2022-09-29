@@ -1,0 +1,22 @@
+.container{
+
+}
+.mini_container  {
+    margin-top:80px;
+    margin-left: 300px;
+    margin-right:300px;
+   
+    justify-content: center;
+    height: 40%;
+  
+
+}
+.header_section{
+    display:flex;
+    flex-direction: row;
+}
+.holder{
+border-radius:2px solid black;
+border-color: #92a8d1;
+border-color:'red';
+}

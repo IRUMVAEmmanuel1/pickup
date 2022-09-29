@@ -1,0 +1,61 @@
+.body {
+  font-family: Nunito;
+}
+.order {
+  margin-top: 170px;
+  margin-left: 50px;
+}
+.title {
+  font-family: "Oswald", sans-serif;
+}
+.order p {
+  /* font-family:'oswald'; */
+  font-size: 10;
+}
+
+.order span {
+  color: "#1A7431";
+}
+.saybye {
+  margin-top: 30px;
+}
+.saybye p {
+  font-size: 20px;
+}
+
+.orderNow,
+.contact {
+  margin-top: 50px;
+  margin-left: 50px;
+  padding-inline: 30px;
+  padding-block: 10px;
+  border-radius: 5px 5px;
+}
+.buttons {
+  display: flex;
+  flex-direction: "row";
+}
+p.contact {
+  font-weight: "bold";
+  font-size: 15px;
+  cursor: pointer;
+}
+
+
+.cont{
+    position: 'relative';
+
+}
+.worker {
+  position:'absolute';
+  margin-top: 30px;
+  
+}
+.bgPhoto{
+   
+    margin-top:200px;
+    width:500px;
+    height:300px;
+}
+
+

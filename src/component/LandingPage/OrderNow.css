@@ -1,0 +1,72 @@
+body{
+    background-color:#F5F5F5;
+}
+
+.subContainer {
+    margin-top:70px;
+    width:760px;
+    background-color:white;
+    position: absolute;
+    left: 30%;
+    margin-left: -100px;
+    height: 700px;
+}
+
+.centered {
+   
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+  }
+  .holder{
+    display:flex;
+    flex-direction:row;
+    
+  }
+  .my{
+    height:40px;
+  }
+
+  .add{
+    background-color:#1A7431;
+    color:#FFF;
+    font-size:13px;
+  }
+  .add hover{
+    background-color:#1A7431;
+    color:#FFF;
+    font-size:13px;
+
+  }
+
+  .service{
+    display:flex;
+    justify-content: space-between;
+
+  }
+
+  .footer{
+    display:flex;
+    justify-content: flex-end;
+    text-indent: 50px;
+  }
+
+
+  input[type="checkbox"]::before {
+    /* ...existing styles */
+  
+    /* Windows High Contrast Mode */
+    background-color: CanvasText;
+  }
+
+
+
+  legend {
+    background-color: #000;
+    color: #fff;
+    padding: 3px 6px;
+}
+
+input {
+    margin: .4rem;
+}
