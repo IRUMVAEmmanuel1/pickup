@@ -23,7 +23,7 @@ function LandingPage() {
     
     <div className='buttons'>
         <div>
-             <button className='orderNow' style={{backgroundColor: '#1A7431', color:'white'}}><span style={{fontSize:'13px',fontWeight:'bold' }}><Link to="../LandingPage/OrderNow.js">Order Now</Link></span></button>
+             <button className='orderNow' style={{backgroundColor: '#1A7431', color:'white'}}><span style={{fontSize:'13px',fontWeight:'bold' }}><Link to="/OrderNow">Order Now</Link></span></button>
         </div>
         {/* <div style={{marginLeft: -20}}>
             <p className='contact' style={{ fontWeight:'bold',fontSize:'13px'}}>Contact Us</p>
